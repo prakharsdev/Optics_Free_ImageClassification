@@ -6,4 +6,4 @@ Masters Thesis
 
 You can test our model on test data by directly downloading notebooks whose name starts with "Test_notebook_...." as highlighted below
 
-![image](https://user-images.githubusercontent.com/26145700/225387128-effa3a00-d78e-4558-8f70-ab3bee261cf3.png)
+<img width="751" alt="Picture1" src="https://user-images.githubusercontent.com/26145700/225389058-b276f90d-c6e5-44c0-be0a-eef8c7d2f065.png">
