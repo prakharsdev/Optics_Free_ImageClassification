@@ -1,4 +1,5 @@
-# Optics Free Image Classification
+# Optics-Free Image Classification Using Deep Metric Learning 
+
 Optics-Free Image Classification Using Deep Metric Learning 
 
 Masters Thesis 
